@@ -107,9 +107,3 @@ Seasonal decomposition was performed individually for:
 
 **Sai**
 Aspiring Data Scientist | Machine Learning Enthusiast
-
----
-
-## ⭐ If you find this project useful
-
-Give it a ⭐ on GitHub to support the work!
